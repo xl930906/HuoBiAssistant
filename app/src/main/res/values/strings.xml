@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">火币助手</string>
+
+    <!-- 主界面 -->
+    <string name="main_buy">买入</string>
+    <string name="main_sale">卖出</string>
+    <string name="main_now">当前委托</string>
+    <string name="main_history">历史委托</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="update">检查更新</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- 当前委托 -->
+
+    <string name="WeiTuoPrice">委托价格</string>
+    <string name="WeiTuoAmount">委托量</string>
+    <string name="StopLossPrice">止损价格</string>
+
+
+</resources>
